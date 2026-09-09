@@ -40,7 +40,7 @@ df = load_data()
 # ---------------------------------------------------------
 # SIDEBAR CONTROLS
 # ---------------------------------------------------------
-st.sidebar.header("🕹️ CONTROL CENTER")
+st.sidebar.header("CONTROL CENTER")
 
 data_source = st.sidebar.selectbox(
     "Data Source Layer",
